@@ -1,0 +1,32 @@
+{
+  "hash": "acb192ee",
+  "browserHash": "3dd4b5bd",
+  "optimized": {
+    "mathjs": {
+      "src": "../../node_modules/mathjs/lib/esm/index.js",
+      "file": "mathjs.js",
+      "fileHash": "a043570a",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "938ad787",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4c60bdef",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-6DDWND5A": {
+      "file": "chunk-6DDWND5A.js"
+    },
+    "chunk-4EOJPDL2": {
+      "file": "chunk-4EOJPDL2.js"
+    }
+  }
+}
